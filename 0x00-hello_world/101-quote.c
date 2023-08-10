@@ -1,7 +1,7 @@
 #include <unistd.h>
 /**
- * Main - prints "and that  piece of art is useful".
- * Followed by snewline and standard output.
+ * Main - prints "and that piece of art is useful" - Dora Korpar, 2015-10-19,
+ * followed by a new line, to the standard error.
  * Return: always 1 if success.
  */
 int main(void)
